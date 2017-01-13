@@ -21,15 +21,15 @@
 // |-background.jpg (or tiled.jpg, background.png, tiled.png)
 //
 
-windowBg: #ffffff;
-windowFg: #000000;
-windowBgOver: #f1f1f1;
-windowBgRipple: #e5e5e5;
+windowBg: #303030;
+windowFg: #ffffff;
+windowBgOver: #424242;
+windowBgRipple: #616161;
 windowFgOver: windowFg;
-windowSubTextFg: #999999;
-windowSubTextFgOver: #919191;
-windowBoldFg: #222222;
-windowBoldFgOver: #222222;
+windowSubTextFg: #ffffffb3;
+windowSubTextFgOver: #ffffffb3;
+windowBoldFg: #ffffff;
+windowBoldFgOver: #ffffff;
 windowBgActive: #40a7e3;
 windowFgActive: #ffffff;
 windowActiveTextFg: #168acd;
@@ -188,9 +188,9 @@ searchedBarBorder: shadowFg;
 searchedBarFg: windowSubTextFgOver;
 topBarBg: windowBg;
 emojiPanBg: windowBg;
-emojiPanCategories: #f7f7f7; // windowBg;
+emojiPanCategories: #424242; // windowBg;
 emojiPanHeaderFg: windowSubTextFg;
-emojiPanHeaderBg: #fffffff2; // emojiPanBg;
+emojiPanHeaderBg: #424242; // emojiPanBg;
 stickerPanDeleteBg: #000000cc;
 stickerPanDeleteFg: windowFgActive;
 stickerPreviewBg: #ffffffb0;
@@ -237,8 +237,8 @@ historyScrollBg: #517c414c;
 historyScrollBgOver: #517c416b;
 msgInBg: windowBg;
 msgInBgSelected: #c2dcf2;
-msgOutBg: #effdde;
-msgOutBgSelected: #b7dbdb;
+msgOutBg: #424242;
+msgOutBgSelected: #616161;
 msgSelectOverlay: #358cd44c;
 msgStickerOverlay: #358cd47f;
 msgInServiceFg: windowActiveTextFg;
