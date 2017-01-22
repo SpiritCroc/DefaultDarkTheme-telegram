@@ -245,31 +245,10 @@ msgInServiceFg: windowActiveTextFg;
 msgInServiceFgSelected: windowActiveTextFg;
 msgOutServiceFg: #3a8e26;
 msgOutServiceFgSelected: #367570;
-//a
-//msgInShadow: #748ea2;
-//msgInShadowSelected: #548dbb;
-//msgOutShadow: #3ac347;
-//msgOutShadowSelected: #37a78e;
-//b
-//msgInShadow: #42424229;
-//msgInShadowSelected: #42424229;
-//msgOutShadow: #42424240;
-//msgOutShadowSelected: #42424240;
-//c
 msgInShadow: #61616129;
 msgInShadowSelected: #61616129;
 msgOutShadow: #61616140;
 msgOutShadowSelected: #61616140;
-//d
-//msgInShadow: #ffffff29;
-//msgInShadowSelected: #ffffff29;
-//msgOutShadow: #ffffff40;
-//msgOutShadowSelected: #ffffff40;
-//keinrand
-//msgInShadow: #ffffff00;
-//msgInShadowSelected: #ffffff00;
-//msgOutShadow: #ffffff00;
-//msgOutShadowSelected: #ffffff00;
 msgInDateFg: #a0acb6;
 msgInDateFgSelected: #6a9cc5;
 msgOutDateFg: #6cc264;
