@@ -1,6 +1,6 @@
 ZIP = /usr/bin/zip
 RM = /usr/bin/rm
-TARGET = .tdesktop-theme
+TARGET = Default\ Dark.tdesktop-theme
 IN_FILES = background.png colors.tdesktop-theme
 
 create:
