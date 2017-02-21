@@ -14,7 +14,7 @@ Then click on it in the official Android telegram application and apply it.
 
 ### Desktop:
 
-Generate the theme file by running "make" in the source directory, or alternatively download the latest one from the release page.
+Generate the theme file by running "make" in the source directory, or alternatively download the latest one from the [release page](https://github.com/SpiritCroc/DefaultDarkTheme-telegram/releases).
 
 Make sure the downloaded file ends with ".tdesktop-theme".
 
