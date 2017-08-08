@@ -1,10 +1,14 @@
-ZIP = /usr/bin/zip
-RM = /usr/bin/rm
-TARGET = Default\ Dark.tdesktop-theme
-IN_FILES = background.png colors.tdesktop-theme
+ZIP = zip
+RM = rm
+ZIP_TARGET = DefaultDark.tdesktop-theme
+ZIP_IN_FILES = background.png colors.tdesktop-theme
 
-create:
-	$(ZIP) $(TARGET) $(IN_FILES)
+.PHONY: all clean
+
+all: $(ZIP_TARGET)
+
+$(ZIP_TARGET): $(ZIP_IN_FILES)
+	$(ZIP) $(ZIP_TARGET) $(ZIP_IN_FILES)
 
 clean:
-	$(RM) $(TARGET)
+	$(RM) -rf $(ZIP_TARGET)
