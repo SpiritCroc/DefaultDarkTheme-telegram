@@ -6,7 +6,7 @@ Dark theme for telegram, created to match the Default Dark Substratum/CMTE/RRO T
 
 | Chats List | Messages |
 | ------------- | ------------- |
-| ![...](images/Screenshot_2.webp) | ![...](images/Screenshot_1.webp) |
+| ![...](images/Screenshot_1.webp) | ![...](images/Screenshot_2.webp) |
 
 ## How to use
 
