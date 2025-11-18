@@ -2,6 +2,12 @@
 
 Dark theme for telegram, created to match the Default Dark Substratum/CMTE/RRO Themes.
 
+## Screenshots
+
+| Chats List | Messages |
+| ------------- | ------------- |
+| ![...](images/Screenshot_2.webp) | ![...](images/Screenshot_1.webp) |
+
 ## How to use
 
 ### Android:
